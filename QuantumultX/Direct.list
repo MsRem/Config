@@ -1,4 +1,3 @@
 # 自定义全球直连规则
 HOST-SUFFIX, v4.plex.tv, Direct
-HOST-SUFFIX, hostloc.com, Direct
 HOST-SUFFIX, api.serhiy.io, Direct
