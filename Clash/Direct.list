@@ -1,3 +1,4 @@
 # 自定义全球直连规则
+SRC-IP-CIDR, 10.0.0.80/32
 DOMAIN, v4.plex.tv
 DOMAIN, ipv4.icanhazip.com
